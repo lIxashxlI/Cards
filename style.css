@@ -1,5 +1,19 @@
 .card {
-width:350px;
+    width:350px;
     min-height: 230px;
     border: 5px solid lightgoldenrodyellow;
+}
+body{
+    background-color: #ffca64;
+}
+.info {
+    border: 7px solid lightgoldenrodyellow;
+    color: #9f6800;
+}
+.picture {
+    width:350px;
+    height:250px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(255, 106, 0, 0.82);
 }
